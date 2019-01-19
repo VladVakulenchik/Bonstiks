@@ -4,7 +4,7 @@
         "subjects": [
             {
                 "name": "Ушибы",
-                "description": ""
+                "description": "Good health"
             },
             {
                 "name": "Порезы",
@@ -37,7 +37,7 @@
         "key": "Химические травмы",
         "subjects": [
             {
-                "name": "Острые и хронические отравления",
+                "name": "Острые и отравления",
                 "description": ""
             },
             {
