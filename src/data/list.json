@@ -1,17 +1,86 @@
 [
     {
-        "key": "",
+        "key": "Механические травмы",
         "subjects": [
             {
-                "name": "",
+                "name": "Ушибы",
                 "description": ""
             },
             {
-                "name": "",
+                "name": "Порезы",
                 "description": ""
             },
             {
-                "name": "",
+                "name": "Переломы",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "key": "Термические",
+        "subjects": [
+            {
+                "name": "Ожоги",
+                "description": ""
+            },
+            {
+                "name": "Обморожение",
+                "description": ""
+            },
+            {
+                "name": "Теплвой Удар",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "key": "Химические травмы",
+        "subjects": [
+            {
+                "name": "Острые и хронические отравления",
+                "description": ""
+            },
+            {
+                "name": "Ожоги",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "key": "Электрические травмы",
+        "subjects": [
+            {
+                "name": "Ожоги",
+                "description": ""
+            },
+            {
+                "name": "Разрыв Ткани",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "key": "Психические",
+        "subjects": [
+            {
+                "name": "Испуг",
+                "description": ""
+            },
+            {
+                "name": "Перегрузка",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "key": "Лучевые травмы",
+        "subjects": [
+            {
+                "name": "Нарушение деятельности кровеносной системы",
+                "description": ""
+            },
+            {
+                "name": "Повреждение ткани",
                 "description": ""
             }
         ]
